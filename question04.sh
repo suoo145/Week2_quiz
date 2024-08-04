@@ -1,0 +1,1 @@
+git commit -m "commit currenty staged changes"
